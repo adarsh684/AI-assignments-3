@@ -67,19 +67,33 @@ Code: Dynamic_UGV.py
 
 ---
 
-## How to Run
+## ️ How to Run
 
 ### 1. Dijkstra (Cities)
+
 ```bash
+cd dijkstra
 python3 dijkstra_india.py
+```
 
 ### 2. Static UGV
+
+```bash
+cd static_ugv
 python3 Static_UGV.py
+```
 
 ### 3. Dynamic UGV
+
+```bash
+cd dynamic_ugv
 python3 Dynamic_UGV.py
+```
+
+---
 
 ## Algorithms Used
-Dijkstra’s Algorithm (Uniform Cost Search)
-A* Search Algorithm
-Repeated A* (Dynamic Replanning)
+
+- **Dijkstra’s Algorithm** (Uniform Cost Search)
+- **A\*** Search Algorithm
+- **Repeated A\*** (Dynamic Replanning)
